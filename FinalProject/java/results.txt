@@ -1,0 +1,92 @@
+Staring work on ../processed_door_data/features_1.csv
+Classifier option: 1
+88.64353312302839
+93.1230283911672
+95.96214511041009
+96.78233438485805
+96.84542586750788
+Features selected: 5 2 6 3 4 
+The classifier accuracy is: 96.84542586750788
+Staring work on ../processed_door_data/features_1.csv
+Classifier option: 2
+82.08201892744479
+91.16719242902208
+95.14195583596215
+96.34069400630915
+96.90851735015772
+96.97160883280758
+97.35015772870662
+Features selected: 11 0 7 4 8 5 2 
+The classifier accuracy is: 97.35015772870662
+Staring work on ../processed_door_data/features_1.csv
+Classifier option: 3
+84.79495268138801
+88.76971608832808
+89.46372239747635
+90.97791798107255
+91.86119873817034
+91.98738170347004
+92.05047318611987
+Features selected: 0 9 4 7 3 1 8 
+The classifier accuracy is: 92.05047318611987
+Staring work on ../processed_door_data/features_2.csv
+Classifier option: 1
+90.72368421052632
+94.14473684210526
+96.44736842105263
+97.4342105263158
+97.89473684210526
+Features selected: 7 2 6 5 1 
+The classifier accuracy is: 97.89473684210526
+Staring work on ../processed_door_data/features_2.csv
+Classifier option: 2
+86.25
+93.61842105263158
+96.25
+97.17105263157895
+97.69736842105263
+97.82894736842105
+Features selected: 11 2 4 5 1 8 
+The classifier accuracy is: 97.82894736842105
+Staring work on ../processed_door_data/features_2.csv
+Classifier option: 3
+86.77631578947368
+90.98684210526316
+91.3157894736842
+92.5
+93.15789473684211
+93.42105263157895
+Features selected: 0 9 3 4 6 1 
+The classifier accuracy is: 93.42105263157895
+Staring work on ../processed_door_data/features_3.csv
+Classifier option: 1
+92.92096219931271
+95.60137457044674
+97.2508591065292
+97.86941580756013
+98.00687285223368
+98.07560137457045
+Features selected: 9 3 6 10 4 11 
+The classifier accuracy is: 98.07560137457045
+Staring work on ../processed_door_data/features_3.csv
+Classifier option: 2
+89.0721649484536
+95.4639175257732
+98.00687285223368
+98.28178694158076
+98.69415807560138
+99.03780068728523
+99.24398625429554
+Features selected: 5 2 4 10 3 6 8 
+The classifier accuracy is: 99.24398625429554
+Staring work on ../processed_door_data/features_3.csv
+Classifier option: 3
+88.93470790378007
+92.43986254295532
+93.53951890034364
+93.88316151202748
+94.22680412371135
+94.43298969072166
+94.5704467353952
+Features selected: 0 9 4 3 6 1 2 
+The classifier accuracy is: 94.5704467353952
